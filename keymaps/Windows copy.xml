@@ -4,6 +4,9 @@
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Group.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
@@ -39,6 +42,9 @@
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
@@ -49,7 +55,9 @@
   </action>
   <action id="HippieCompletion" />
   <action id="MethodDown" />
+  <action id="NextTab" />
   <action id="OverrideMethods" />
+  <action id="PreviousTab" />
   <action id="ProblemsView.QuickFixes">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
