@@ -1,5 +1,12 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="ActivateBookmarksToolWindow" />
   <action id="ActivateProjectToolWindow" />
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
@@ -19,16 +26,24 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
-  <action id="EditorDuplicate" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl o" />
@@ -39,12 +54,21 @@
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="HippieCompletion" />
+  <action id="MethodDown" />
+  <action id="NextTab" />
   <action id="OverrideMethods" />
+  <action id="PreviousTab" />
   <action id="ProblemsView.QuickFixes">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
@@ -57,17 +81,21 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
   <action id="SendEOF" />
+  <action id="ShowContent" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
+  <action id="ShowSearchHistory" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="SurroundWith">
-    <keyboard-shortcut first-keystroke="ctrl alt s" />
+    <keyboard-shortcut first-keystroke="shift alt s" />
   </action>
   <action id="ToggleFindInSelection" />
+  <action id="UsageView.ShowRecentFindUsages" />
   <action id="XDebugger.CopyWatch" />
+  <action id="context.save" />
   <action id="copilot.cycleNextInlays">
     <keyboard-shortcut first-keystroke="alt close_bracket" />
   </action>
