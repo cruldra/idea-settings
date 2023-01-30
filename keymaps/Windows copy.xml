@@ -24,12 +24,19 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="HippieCompletion" />
   <action id="OverrideMethods" />
