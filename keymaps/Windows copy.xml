@@ -1,6 +1,9 @@
 <keymap version="1" name="Windows copy" parent="$default">
   <action id="ActivateBookmarksToolWindow" />
   <action id="ActivateProjectToolWindow" />
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
@@ -20,7 +23,9 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
-  <action id="EditorDuplicate" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl s" />
@@ -43,6 +48,7 @@
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="HippieCompletion" />
+  <action id="MethodDown" />
   <action id="OverrideMethods" />
   <action id="ProblemsView.QuickFixes">
     <keyboard-shortcut first-keystroke="alt 1" />
@@ -67,17 +73,21 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
   <action id="SendEOF" />
+  <action id="ShowContent" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
+  <action id="ShowSearchHistory" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="SurroundWith">
-    <keyboard-shortcut first-keystroke="ctrl alt s" />
+    <keyboard-shortcut first-keystroke="shift alt s" />
   </action>
   <action id="ToggleFindInSelection" />
+  <action id="UsageView.ShowRecentFindUsages" />
   <action id="XDebugger.CopyWatch" />
+  <action id="context.save" />
   <action id="copilot.cycleNextInlays">
     <keyboard-shortcut first-keystroke="alt close_bracket" />
   </action>
