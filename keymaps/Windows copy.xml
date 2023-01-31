@@ -7,6 +7,7 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
+  <action id="ChangesView.GroupBy.Directory" />
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
@@ -54,6 +55,7 @@
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="HippieCompletion" />
+  <action id="IntroduceParameter" />
   <action id="MethodDown" />
   <action id="NextTab" />
   <action id="OverrideMethods" />
@@ -81,6 +83,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
   <action id="SendEOF" />
+  <action id="ServiceView.GroupByServiceGroups" />
   <action id="ShowContent" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt 1" />
@@ -89,10 +92,15 @@
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="StringManipulation.ToPascalCase">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="shift alt s" />
   </action>
+  <action id="TodoViewGroupByShowPackages" />
   <action id="ToggleFindInSelection" />
+  <action id="UsageGrouping.Directory" />
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="XDebugger.CopyWatch" />
   <action id="context.save" />
