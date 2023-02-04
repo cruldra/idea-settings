@@ -7,6 +7,9 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
+  <action id="BuildWholeSolutionAction">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
   <action id="ChangesView.GroupBy.Directory" />
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
