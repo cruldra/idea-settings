@@ -7,6 +7,9 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
+  <action id="BuildWholeSolutionAction">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
   <action id="ChangesView.GroupBy.Directory" />
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
@@ -22,6 +25,7 @@
     <mouse-shortcut keystroke="button2" />
   </action>
   <action id="ContextHelp" />
+  <action id="CopyElement" />
   <action id="DatabaseView.CopyAction" />
   <action id="Diff.ShowDiff" />
   <action id="EditorDeleteLine">
@@ -29,6 +33,9 @@
   </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileStructurePopup">
@@ -54,9 +61,11 @@
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="f3" />
   </action>
+  <action id="Graph.RouteEdges" />
   <action id="HippieCompletion" />
   <action id="IntroduceParameter" />
   <action id="MethodDown" />
+  <action id="NextDiff" />
   <action id="NextTab" />
   <action id="OverrideMethods" />
   <action id="PreviousTab" />
@@ -73,9 +82,12 @@
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="RevealIn">
-    <keyboard-shortcut first-keystroke="shift alt e" />
+    <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="RunToCursor">
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
   <action id="SaveAll" />
   <action id="Scala.RenameJavaToScala" />
   <action id="Scala.ShowImplicits">
@@ -92,6 +104,7 @@
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="StepInto" />
   <action id="StringManipulation.ToPascalCase">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
