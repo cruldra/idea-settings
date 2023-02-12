@@ -1,0 +1,8 @@
+<templateSet group="Java">
+  <template name="@date" value="@date $date_time$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="date_time" expression="concat(date(),&quot; &quot;,time())" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
