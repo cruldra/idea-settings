@@ -39,6 +39,9 @@
   </action>
   <action id="ExternalSystem.ProjectRefreshAction" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
@@ -66,6 +69,9 @@
   <action id="HippieCompletion" />
   <action id="IntroduceParameter" />
   <action id="MethodDown" />
+  <action id="NewElementMenu">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="NextDiff" />
   <action id="NextTab" />
   <action id="OptimizeImports">
