@@ -57,6 +57,10 @@
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
