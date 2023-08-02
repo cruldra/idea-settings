@@ -3,6 +3,7 @@
     <option name="pluginIds">
       <list>
         <option value="com.intellij.kubernetes" />
+        <option value="com.jetbrains.jax.ws" />
       </list>
     </option>
   </component>
