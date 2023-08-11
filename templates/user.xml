@@ -2,9 +2,7 @@
   <template name="region" value="&lt;--region--&gt;&#10;$TEXT$&#10;&lt;--endregion--&gt;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="HTML" value="true" />
-      <option name="VUE_TEMPLATE" value="true" />
-      <option name="XML" value="true" />
+      <option name="OTHER" value="true" />
     </context>
   </template>
 </templateSet>
