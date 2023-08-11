@@ -3,6 +3,7 @@
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
+      <option name="VUE_TEMPLATE" value="true" />
       <option name="XML" value="true" />
     </context>
   </template>
