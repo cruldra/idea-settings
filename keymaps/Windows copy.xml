@@ -71,6 +71,7 @@
   <action id="Graph.RouteEdges" />
   <action id="HippieCompletion" />
   <action id="IntroduceParameter" />
+  <action id="Log.JumpToSource" />
   <action id="MethodDown" />
   <action id="NewElementMenu">
     <keyboard-shortcut first-keystroke="ctrl n" />
@@ -117,7 +118,6 @@
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
-  <action id="StepInto" />
   <action id="StringManipulation.ToKebabCase">
     <keyboard-shortcut first-keystroke="shift alt k" />
   </action>
