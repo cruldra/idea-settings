@@ -3,11 +3,10 @@
     <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="ef29b6ef-e306-45f0-919d-6264c9105248" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="Darcula" scheme="_@user_Darcula" />
-      <laf-to-scheme laf="Dark" scheme="_@user_Dark" />
+      <laf-to-scheme laf="Dark" scheme="_@user_Darcula" />
       <laf-to-scheme laf="High contrast" scheme="_@user_High contrast" />
       <laf-to-scheme laf="IntelliJ Light" scheme="_@user_IntelliJ Light" />
       <laf-to-scheme laf="Light" scheme="_@user_Light" />
-      <laf-to-scheme laf="Visual Studio Code Dark Plus" scheme="_@user_Visual Studio Code Dark Plus" />
     </lafs-to-previous-schemes>
   </component>
 </application>
