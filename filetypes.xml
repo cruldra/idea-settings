@@ -6,7 +6,7 @@
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".eslintignore" type="PLAIN_TEXT" />
       <mapping ext="htaccess" type="PLAIN_TEXT" />
-      <mapping ext="plantuml" type="PlantUML file" />
+      <mapping ext="nvue" type="Vue.js" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
@@ -16,7 +16,7 @@
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="tps" approved="true" type="XML" />
       <removed_mapping pattern=".eslintignore" approved="true" type="ESLint File" />
-      <mapping ext="nvue" type="Vue.js" />
+      <mapping ext="plantuml" type="PlantUML file" />
     </extensionMap>
   </component>
 </application>
