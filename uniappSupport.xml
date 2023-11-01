@@ -1,5 +1,6 @@
 <application>
   <component name="Uniapp Support">
+    <option name="adbPath" value="C:\Program Files\HBuilderX/plugins/launcher/tools/adbs" />
     <option name="weixinDevtoolPath" value="D:\Program Files (x86)\Tencent\微信web开发者工具" />
     <option name="hbuilderInstallPath" value="C:\Program Files\HBuilderX" />
     <option name="pluginVersion" value="1.1.22-232" />
