@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern=".releaserc" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <mapping ext="nvue" type="Vue.js" />
       <mapping ext="uvue" type="Vue.js" />
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
