@@ -3,13 +3,13 @@
     <extensionMap>
       <mapping pattern=".releaserc" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
+      <mapping ext="nvue" type="Vue.js" />
+      <mapping ext="uvue" type="Vue.js" />
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="nvue" approved="true" type="Uniapp FileType" />
       <removed_mapping ext="uvue" approved="true" type="Uniapp FileType" />
-      <mapping ext="nvue" type="Vue.js" />
-      <mapping ext="uvue" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
